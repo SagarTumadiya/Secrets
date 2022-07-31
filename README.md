@@ -6,6 +6,9 @@ A Login/Signup form made with NodeJs and use Google Auth 2.0.
 - Form Validation
 - Data stored on local mongoDB server
 
+##Packages used
+- There are npm packages such as `express`,`body-parser`,`ejs`,`mongoose`,`express-session`,`passport`,`passport-local-mongoose`,`passport-google-oauth20`,`mongoose-findorcreate`.
+
 ## To run locally 
 
 Make sure `node`,`npm` & `mongodb` is installed on your system.
@@ -14,7 +17,7 @@ Make sure `node`,`npm` & `mongodb` is installed on your system.
 - Add CLIENT_ID="Your client id from google developer console without any quotation"
 - On next Line add CLIENT_SECRET="Your client secret from google developer console without any quotation"
 > git clone https://github.com/SagarTumadiya/Secrets.git
-    > cd Secret/
+    > cd Secrets/
     > npm install
     > npm run
 
