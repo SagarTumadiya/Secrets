@@ -13,7 +13,7 @@ Make sure `node`,`npm` & `mongodb` is installed on your system.
 - Open .env file 
 - Add CLIENT_ID="Your client id from google developer console without any quotation"
 - On next Line add CLIENT_SECRET="Your client secret from google developer console without any quotation"
-> git clone https://github.com/SagarTumadiya/Secret.git
+> git clone https://github.com/SagarTumadiya/Secrets.git
     > cd Secret/
     > npm install
     > npm run
