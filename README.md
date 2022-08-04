@@ -6,7 +6,7 @@ A Login/Signup form made with NodeJs and use Google Auth 2.0.
 - Form Validation
 - Data stored on local mongoDB server
 
-##Packages used
+## Packages used
 - There are npm packages such as `express`,`body-parser`,`ejs`,`mongoose`,`express-session`,`passport`,`passport-local-mongoose`,`passport-google-oauth20`,`mongoose-findorcreate`.
 
 ## To run locally 
